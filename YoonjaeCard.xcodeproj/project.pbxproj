@@ -60,9 +60,9 @@
 				67C15128282D872F00927BD8 /* fonts */,
 				67C1511A282D81EE00927BD8 /* YoonjaeCardApp.swift */,
 				67C1511C282D81EE00927BD8 /* ContentView.swift */,
+				67D36C42282EB941004A1228 /* InfoView.swift */,
 				67C1511E282D81F000927BD8 /* Assets.xcassets */,
 				67C15120282D81F000927BD8 /* Preview Content */,
-				67D36C42282EB941004A1228 /* InfoView.swift */,
 			);
 			path = YoonjaeCard;
 			sourceTree = "<group>";
