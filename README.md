@@ -1,5 +1,3 @@
-<br/> <br>
-
 ✋Hi there
 
 
@@ -14,7 +12,7 @@ I'm Studying in SeSAC iOS🍎 Now.
 <div align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a> <img src="https://img.shields.io/badge/Xocde-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>   
 
-<br/> <br><br/> <br>
+<br/> <br>
 
 <div align="center">
 SNS
