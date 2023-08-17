@@ -1,7 +1,7 @@
 
 
 ✋Hi there    
-I'm Studying in SeSAC iOS🍎 Now.
+I'm iOS🍎 developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoon-hub&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoon-hub&layout=compact)
