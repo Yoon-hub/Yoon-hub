@@ -1,3 +1,3 @@
-안녕하세요. iOS 개발자 최윤제입니다.
+Hello, I'm YoonJae Choi, an iOS developer.
 
-잘 부탁드립니다.
+I look forward to your kind cooperation.
